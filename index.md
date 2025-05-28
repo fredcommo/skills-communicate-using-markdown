@@ -7,3 +7,7 @@ Some comment about changes
 def sum(x, y):
   return x + y
 ```
+- [x] task done
+- [ ] new task
+- [ ] next task
+
